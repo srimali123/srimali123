@@ -10,8 +10,6 @@
 
 
 
-<!---
-srimali123/srimali123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[linkedin]: linkedin.com/in/srimali-udayangani-1343571a6
+
+
+[linkedin]: https://linkedin.com/in/srimali-udayangani-1343571a6
