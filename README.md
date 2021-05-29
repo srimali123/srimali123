@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @srimali123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+### Hi there,I’m Srimali Udayangani 👋 
+- 👀 I’m interested in learn new technologies
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🥅 2021 Goals: Contribute more to projects
+- ### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srimali123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+
 <!---
 srimali123/srimali123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[linkedin]: linkedin.com/in/srimali-udayangani-1343571a6
