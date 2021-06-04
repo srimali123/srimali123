@@ -31,6 +31,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
  ⚙️ &nbsp;
  
