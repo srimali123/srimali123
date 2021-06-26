@@ -11,7 +11,9 @@
 
    [linkedin]: https://linkedin.com/in/srimali-udayangani-1343571a6
 
+[<img    width="26px" height ="26px" align="left" src="https://img.icons8.com/fluent/48/000000/resume-website.png"/>][github.io]
 
+[github.io]:https://srimali123.github.io/
 
 <br/>
 
