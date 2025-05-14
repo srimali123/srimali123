@@ -1,9 +1,9 @@
 <h1 align="center">Hi there , I'm Srimali Udayangani 👋</h1>
 
-- 🔭 I’m currently an Undergraduate at the Informatic Institute Of Technology(IIT-Colombo)
+- 🔭 I’m a Graduate
 - 👀 I’m interested in learn new technologies
-- 🌱 I’m currently learning Javascript
-- 🥅 2021 Goals: Contribute more to projects
+- 🌱 I’m currently learning React
+- 🥅 2025 Goals: Contribute more to projects
 
 
 ### Connect with me:
